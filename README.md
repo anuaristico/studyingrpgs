@@ -16,7 +16,9 @@ The creation of the network is *detailed* in the notebook within the source fold
   <sub>Figure 1. Dragon Age (google imgs) </sub> | <sub>Figure 2. Mass Effect (google imgs) </sub> | <sub>Figure 3. Baldur's Gate 3 (google imgs) </sub>
 </p>
 
+
 In the figures below, there are graphs highlighting some of the main parameters for network analysis. Shades of blue and smaller sizes indicate lower values, while shades of red and larger sizes indicate higher values ​​for each parameter.
+
 
 <p align="center">
   <img src="imgs/indegree.png" alt="Imagem 1" width="200">
