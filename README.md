@@ -22,9 +22,9 @@ The creation of the network is *detailed* in the notebook within the source fold
   <sub>Figure 1. Dragon Age (google imgs) </sub> | <sub>Figure 2. Mass Effect (google imgs) </sub> | <sub>Figure 3. Baldur's Gate 3 (google imgs) </sub>
 </p>
 
-
+<p align="justify"> 
 In the figures below, there are graphs highlighting some of the main parameters for network analysis. Shades of blue and smaller sizes indicate lower values, while shades of red and larger sizes indicate higher values ​​for each parameter.
-
+</p>
 
 <p align="center">
   <img src="imgs/indegree.png" alt="Imagem 1" width="200">
@@ -33,7 +33,9 @@ In the figures below, there are graphs highlighting some of the main parameters 
   <img src="imgs/eighen.png" alt="Imagem 4" width="200">
 </p>
 
+<p align="justify"> 
 In figure 3, there is the graph representation for In-Degree Centrality. It can be seen that among the pages with the highest in-degree rates are the pages of IGN, Bioware and Eletronic Arts. The in-degree metric, in this case, corresponds to the number of times this page was cited by others present in the graph. It makes sense that these three were mentioned a lot, since the three first games of these franchises were developed by the company Bioware, which has a connection with the distributor Eletronic Arts (EA), while IGN is a large website for promoting game releases.
+</p>
 
 <p align="center">
   <sub>Figure 4. In-Degree Centrality </sub> | <sub>Figure 5. Closeness Centrality </sub> | <sub>Figure 6. Betweness Centrality </sub> | <sub>Figure 7. Eigenvector Centrality </sub>
