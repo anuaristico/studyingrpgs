@@ -22,4 +22,21 @@
   <sub>Figure 4. In-Degree Centrality </sub> | <sub>Figure 5. Closeness Centrality </sub> | <sub>Figure 6. Betweness Centrality </sub> | <sub>Figure 7. Eigenvector Centrality </sub>
 </p>
 
+<p align="center">
+  <img src="imgs/probability.png" alt="Imagem 1" width="200">
+  <img src="imgs/cumulative.png" alt="Imagem 2" width="200">
+</p>
+
+<p align="center">
+  <sub>Figure 8. Probability Density Function (PDF) of network </sub> | <sub>Figure 9. Cumulative Density Function (CDF) of network </sub>
+</p>
+
+<p align="center">
+  <img src="imgs/kcore92kshell76.png" alt="Imagem 1" width="200">
+</p>
+
+<p align="center">
+  <sub>Figure 10. 92 K-core (red) and 76 K-shell (blue) </sub>
+</p>
+
 
