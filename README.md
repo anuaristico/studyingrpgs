@@ -44,3 +44,8 @@ Over the years, RPGs have been incorporated into the virtual world of video game
 </p>
 
 
+## References
+
+[1] RANDI, M. A. F.; CARVALHO, H. F. DE .. Learning through role-playing games: an approach for active learning and teaching. Revista Brasileira de Educação Médica, v. 37, n. 1, p. 80–88, jan. 2013. 
+
+
