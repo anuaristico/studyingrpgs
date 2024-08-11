@@ -43,6 +43,13 @@ Over the years, RPGs have been incorporated into the virtual world of video game
   <sub>Figure 10. 92 K-core (red) and 76 K-shell (blue) </sub>
 </p>
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details ([MIT](https://choosealicense.com/licenses/mit/)).
+
+
+## 🔗 Links
+[Youtube](https://youtube.com)
+
 
 ## References
 
@@ -51,5 +58,12 @@ Over the years, RPGs have been incorporated into the virtual world of video game
 [2] GEPHI. Gephi: The Open Graph Viz Platform. Versão 0.9.2. Paris: Gephi Consortium, 2021. Software. Disponível em: https://gephi.org/. Acesso em: 11 ago. 2024.
 
 [3] NETWORKX. NetworkX: High productivity software for complex networks. Versão 3.1. [S.l.]: Python Software Foundation, 2024. Software. Disponível em: https://networkx.org/. Acesso em: 11 ago. 2024.
+ 
+
+## 🚀 About me
+If you have any questions or suggestions, please contact me.
+
+Author: Josué Anuar Costa de Medeiros
+Contact: josueanuarm@gmail.com
 
 
