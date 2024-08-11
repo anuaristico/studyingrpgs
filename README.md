@@ -47,5 +47,7 @@ Over the years, RPGs have been incorporated into the virtual world of video game
 ## References
 
 [1] RANDI, M. A. F.; CARVALHO, H. F. DE .. Learning through role-playing games: an approach for active learning and teaching. Revista Brasileira de Educação Médica, v. 37, n. 1, p. 80–88, jan. 2013. 
+[2] GEPHI. Gephi: The Open Graph Viz Platform. Versão 0.9.2. Paris: Gephi Consortium, 2021. Software. Disponível em: https://gephi.org/. Acesso em: 11 ago. 2024.
+[3] NETWORKX. NetworkX: High productivity software for complex networks. Versão 3.1. [S.l.]: Python Software Foundation, 2024. Software. Disponível em: https://networkx.org/. Acesso em: 11 ago. 2024.
 
 
