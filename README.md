@@ -1,1 +1,1 @@
-# Studying relationships between classic rpgs using graphs
+# Studying relationships between classic rpgs using networks
