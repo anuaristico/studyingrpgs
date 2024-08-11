@@ -33,6 +33,10 @@ In the figures below, there are graphs highlighting some of the main parameters 
   <img src="imgs/eighen.png" alt="Imagem 4" width="200">
 </p>
 
+<p align="center">
+  <sub>Figure 4. In-Degree Centrality </sub> | <sub>Figure 5. Closeness Centrality </sub> | <sub>Figure 6. Betweness Centrality </sub> | <sub>Figure 7. Eigenvector Centrality </sub>
+</p>
+
 <p align="justify"> 
 In figure 4, there is the graph representation for In-Degree Centrality. It can be seen that among the pages with the highest in-degree rates are the pages of IGN, Bioware and Eletronic Arts. The in-degree metric, in this case, corresponds to the number of times this page was cited by others present in the graph. It makes sense that these three were mentioned a lot, since the three first games of these franchises were developed by the company Bioware, which has a connection with the distributor Eletronic Arts (EA), while IGN is a large website for promoting game releases.
 </p>
@@ -47,10 +51,6 @@ In figure 6, the graph representation for Betweenness Centrality highlights the 
 
 <p align="justify"> 
 In figure 7, the graph representation for Eigenvector Centrality is presented. In this metric, only the Master of Arts (Scotland) page stood out significantly, indicating that, within the graph, this page is connected to others that also have high importance. This result may reflect the academic and cultural influence associated with the Master of Arts, positioning it as a central node in a network of pages related to topics of high intellectual relevance.
-</p>
-
-<p align="center">
-  <sub>Figure 4. In-Degree Centrality </sub> | <sub>Figure 5. Closeness Centrality </sub> | <sub>Figure 6. Betweness Centrality </sub> | <sub>Figure 7. Eigenvector Centrality </sub>
 </p>
 
 <p align="center">
