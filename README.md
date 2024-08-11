@@ -4,6 +4,8 @@ In short, an RPG is a game in which a person tells a story that is enacted by th
 
 Over the years, RPGs have been incorporated into the virtual world of video games. Dragon Age, Mass Effect and Baldur’s Gate were some of the first (and classic) titles released, which were later transformed into successful franchises. For this work, a network of links present on each of the Wikipedia pages referring to these franchises was created, in an attempt to investigate the relationship between them. It is important to highlight that due to machine limitations, only up to the second layer of links were analyzed.
 
+The creation of the network is *detailed* in the notebook within the source folder.
+
 <p align="center">
   <img src="imgs/dg.jpg" alt="Imagem 1" width="200">
   <img src="imgs/me.jpg" alt="Imagem 2" width="200">
