@@ -37,6 +37,18 @@ In the figures below, there are graphs highlighting some of the main parameters 
 In figure 4, there is the graph representation for In-Degree Centrality. It can be seen that among the pages with the highest in-degree rates are the pages of IGN, Bioware and Eletronic Arts. The in-degree metric, in this case, corresponds to the number of times this page was cited by others present in the graph. It makes sense that these three were mentioned a lot, since the three first games of these franchises were developed by the company Bioware, which has a connection with the distributor Eletronic Arts (EA), while IGN is a large website for promoting game releases.
 </p>
 
+<p align="justify"> 
+In figure 5, there is the graph representation for Closeness Centrality. It can be seen that many pages showed high rates of closeness centrality, with a significant concentration on pages from magazines specialized in promoting game releases. This metric reveals that these pages are well positioned in the graph, allowing quick and efficient access to other pages. This result is expected, given the role of these magazines in connecting diverse information related to games, offering centralized access to varied content.
+</p>
+
+<p align="justify"> 
+In figure 6, the graph representation for Betweenness Centrality highlights the YouTube, The Guardian, Dragon Age, William Shakespeare and Immanuel Kant pages as those with the highest betweenness centrality. These pages act as crucial bridges within the graph, facilitating the connection between different groups of pages. The prominence of these pages indicates their importance in the flow of information, connecting areas that would otherwise be more isolated within the network.
+</p>
+
+<p align="justify"> 
+In figure 7, the graph representation for Eigenvector Centrality is presented. In this metric, only the Master of Arts (Scotland) page stood out significantly, indicating that, within the graph, this page is connected to others that also have high importance. This result may reflect the academic and cultural influence associated with the Master of Arts, positioning it as a central node in a network of pages related to topics of high intellectual relevance.
+</p>
+
 <p align="center">
   <sub>Figure 4. In-Degree Centrality </sub> | <sub>Figure 5. Closeness Centrality </sub> | <sub>Figure 6. Betweness Centrality </sub> | <sub>Figure 7. Eigenvector Centrality </sub>
 </p>
