@@ -1,4 +1,4 @@
-# Studying relationships between classic rpgs using networks
+# Studying connections between classic RPGs using networks
 
 <p align="center">
   <img src="imgs/dg.jpg" alt="Imagem 1" width="200">
