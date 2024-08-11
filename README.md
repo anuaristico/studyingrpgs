@@ -70,6 +70,10 @@ In figure 7, the graph representation for Eigenvector Centrality is presented. I
   <sub>Figure 10. 92 K-core (red) and 76 K-shell (blue) </sub>
 </p>
 
+<p align="justify"> 
+In Figures 8 and 9, which show the network's Probability Density Function (PDF) and Cumulative Density Function (CDF), respectively, it is clear that most pages have a low In-degree, that is, they are rarely cited by other pages. While few pages have large numbers of citations. In Figure 10, where the group with k-core equal to 92 is seen in red and the group with k-shell equal to 76 in blue, two groups can be seen that have great influence on the network, either being cited or citing other pages.
+</p>
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details ([MIT](https://choosealicense.com/licenses/mit/)).
 
