@@ -80,6 +80,7 @@ In Figure 10, where the group with k-core equal to 92 is seen in red and the gro
 
 # Interactive network and youtube apresentation
 [Interactive Network](https://anuaristico.github.io/studyingrpgs/network)
+
 [Youtube](https://youtube.com)
 
 ## License
