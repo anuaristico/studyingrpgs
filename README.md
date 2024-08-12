@@ -81,7 +81,7 @@ In Figure 10, where the group with k-core equal to 92 is seen in red and the gro
 # Interactive network and youtube apresentation
 [Interactive Network](https://anuaristico.github.io/studyingrpgs/network)
 
-[Youtube](https://youtube.com)
+[Youtube](https://youtu.be/YVbRlNLGPz4)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details ([MIT](https://choosealicense.com/licenses/mit/)).
