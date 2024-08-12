@@ -1,4 +1,4 @@
-# Studying connections between classic RPGs using networks
+# Studying connections between classic RPGs using Wikipedia Network
 
 <p align="justify"> 
 In short, an RPG is a game in which a person tells a story that is enacted by the players who are given roles as the various pieces of background information. Challenges related to the story are then presented and must be addressed by all participants. Each player represents a character in the story and is attributed (quantitatively-defined) skills. These skills are tested during the game to decide if the character succeeds in his or her attempt to perform a task that solves the problem or overcomes the challenge [1].
